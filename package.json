@@ -1,0 +1,30 @@
+{
+  "name": "snake_caser",
+  "version": "1.0.0",
+  "description": "Converts a string to Snakecase",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaelSahlestrom/snake_caser.git"
+  },
+  "author": "Mikael Sahleström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaelSahlestrom/snake_caser/issues"
+  },
+  "homepage": "https://github.com/mikaelSahlestrom/snake_caser#readme",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-typescript": "^7.16.0",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  }
+}
