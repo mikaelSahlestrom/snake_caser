@@ -1,5 +1,5 @@
 {
-  "name": "snake_caser",
+  "name": "@mikaelsahlestrom/snake_caser",
   "version": "1.0.0",
   "description": "Converts a string to Snakecase",
   "main": "index.js",
@@ -26,5 +26,11 @@
     "@babel/preset-typescript": "^7.16.0",
     "babel-jest": "^27.3.1",
     "jest": "^27.3.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "publishConfig": {
+    "@mikaelsahlestrom:registry": "https://npm.pkg.github.com"
   }
 }
