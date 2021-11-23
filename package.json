@@ -1,6 +1,6 @@
 {
   "name": "@mikaelsahlestrom/snake_caser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts a string to Snakecase",
   "main": "index.js",
   "scripts": {
